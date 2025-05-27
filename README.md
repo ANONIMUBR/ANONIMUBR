@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel, and I am currently studying to enter the IT market, specifically in the field of development.</p>
+<p align="left">I’m Gabriel, a Computer Technician student at IFSP. I’m building my skills to start a career in IT, focusing on software development.</p>
 
 ###
 
