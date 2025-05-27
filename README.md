@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Gabriel, a Computer Technician student at IFSP. I’m building my skills to start a career in IT, focusing on software development.</p>
+<p align="left">I’m Gabriel, a Computer Technician student at IFSP(Instituto Federal de São Paulo). I’m building my skills to start a career in IT, focusing on software development.</p>
 
 ###
 
