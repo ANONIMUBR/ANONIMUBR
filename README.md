@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ANONIMUBR/ANONIMUBR/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ANONIMUBR/ANONIMUBR/workflows/snake.yml" alt="Snake animation" />
 
 ###
