@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I have skills in web and desktop development, as well as basic knowledge of infrastructure (hardware and networks).</p>
+<p align="left">I have skills in web and desktop development, as well as basic knowledge of infrastructure (hardware and networks) and image design.</p>
 
 ###
 
