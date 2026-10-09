@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is Gabriel</h2>
+<h2 align="left">Olá 👋! Meu nome é Gabriel</h2>
 
 ###
 
-<p align="left">I’m Gabriel, a Computer Technician student at IFSP(Instituto Federal de São Paulo). I’m building my skills to start a career in IT, focusing on software development.</p>
+<p align="left">Sou o Gabriel, estudante de Sistemas de Informação na UTFPR(Universidade Tecnológica Federal do Paraná), também formado em Técnico em Informática pelo IFSP(Instituto Federal do Estado de São Paulo). Estou construindo minhas habilidades para uma carreira focada no desenvolvimento de software.</p>
 
 ###
 
-<p align="left">I have skills in web and desktop development, as well as basic knowledge of infrastructure (hardware and networks) and image design.</p>
+<p align="left">Eu tenho domínio em habilidade de desenvolvimento web e desktop, com um bom conhecimento em infraestrutura(Hardware e redes de computadores</p>
 
 ###
 
